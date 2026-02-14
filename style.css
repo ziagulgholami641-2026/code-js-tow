@@ -1,0 +1,27 @@
+*{
+    color: blue;
+}
+
+h1{
+    font-size: x-large;
+    font-weight: bold; 
+    text-transform: lowercase;
+
+}
+
+
+
+p span{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    font-weight: bold;
+font-style: italic;
+text-transform: capitalize;
+}
+p{
+    font-size: larger;
+    font-variant: small-caps;
+}
+h3{
+    font-size: clamp(23px,18px,30px);
+}
